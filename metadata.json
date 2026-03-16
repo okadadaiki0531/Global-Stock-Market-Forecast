@@ -1,0 +1,5 @@
+{
+  "name": "Global Equity Predictor",
+  "description": "Predicts All-Country stock market trends based on historical data and real-time global geopolitical analysis using AI.",
+  "requestFramePermissions": []
+}
